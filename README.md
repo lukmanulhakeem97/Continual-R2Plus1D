@@ -1,6 +1,7 @@
 # Continual-R2Plus1D
 A continual learning implementation of R(2+1)D action recognition method based on paper "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning" https://arxiv.org/abs/1711.05769.
 
+Paper: https://ieeexplore.ieee.org/document/10958481.
 
 Related works that refered:
   - https://github.com/irhum/R2Plus1D-PyTorch.git
